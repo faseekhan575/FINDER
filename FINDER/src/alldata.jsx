@@ -1,4 +1,4 @@
-// ============================================================
+﻿// ============================================================
 // allData.jsx — Muridke Schools Dataset
 // Production-ready for React + Vite + Tailwind CSS
 // Real school names | Dummy images/fees/staff allowed
@@ -149,10 +149,10 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/1a3c5e/ffffff&text=Chand+Bagh+School",
-      "https://dummyimage.com/600x400/1a3c5e/ffffff&text=CBS+Campus",
-      "https://dummyimage.com/600x400/1a3c5e/ffffff&text=CBS+Sports+Ground",
-      "https://dummyimage.com/600x400/1a3c5e/ffffff&text=CBS+Hostel",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.80222, lng: 74.15000 },
     reviews: [
@@ -206,8 +206,8 @@ export const schoolsData = [
     email:     "chandbaghboys@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/2c5f2e/ffffff&text=CB+Boys+HS",
-      "https://dummyimage.com/600x400/2c5f2e/ffffff&text=CB+Boys+Classroom",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8025, lng: 74.1510 },
     reviews: [
@@ -260,8 +260,8 @@ export const schoolsData = [
     email:     "chandbaghgirls@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/8b4513/ffffff&text=CB+Girls+HS",
-      "https://dummyimage.com/600x400/8b4513/ffffff&text=CB+Girls+Library",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8028, lng: 74.1512 },
     reviews: [
@@ -321,9 +321,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/003366/ffffff&text=Allied+School+Boys",
-      "https://dummyimage.com/600x400/003366/ffffff&text=Allied+Muridke+Classroom",
-      "https://dummyimage.com/600x400/003366/ffffff&text=Allied+Computer+Lab",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8020, lng: 74.2558 },
     reviews: [
@@ -380,8 +380,8 @@ export const schoolsData = [
     email:     "muridke.girls@alliedschools.edu.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/660033/ffffff&text=Allied+Girls+Muridke",
-      "https://dummyimage.com/600x400/660033/ffffff&text=Allied+Girls+Lab",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8022, lng: 74.2560 },
     reviews: [
@@ -443,9 +443,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/006400/ffffff&text=Dar-e-Arqam+Boys",
-      "https://dummyimage.com/600x400/006400/ffffff&text=DAS+Muridke+Class",
-      "https://dummyimage.com/600x400/006400/ffffff&text=DAS+Prayer+Hall",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8018, lng: 74.2555 },
     reviews: [
@@ -502,8 +502,8 @@ export const schoolsData = [
     email:     "muridkegirls@daspak.org",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/4b0082/ffffff&text=DAS+Girls+Muridke",
-      "https://dummyimage.com/600x400/4b0082/ffffff&text=DAS+Girls+Library",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8019, lng: 74.2557 },
     reviews: [
@@ -556,8 +556,8 @@ export const schoolsData = [
     email:     "alrehmangrammar@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/8b0000/ffffff&text=Al-Rehman+Grammar+Girls",
-      "https://dummyimage.com/600x400/8b0000/ffffff&text=Al-Rehman+Classroom",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8015, lng: 74.2548 },
     reviews: [
@@ -609,8 +609,8 @@ export const schoolsData = [
     email:     "batoolgirlsschool@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/556b2f/ffffff&text=Batool+Girls+School",
-      "https://dummyimage.com/600x400/556b2f/ffffff&text=Batool+Classroom",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8017, lng: 74.2553 },
     reviews: [
@@ -663,8 +663,8 @@ export const schoolsData = [
     email:     "chatthapublicgirls@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/2f4f4f/ffffff&text=Chattha+Public+Girls",
-      "https://dummyimage.com/600x400/2f4f4f/ffffff&text=Chattha+School+Building",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8100, lng: 74.2600 },
     reviews: [
@@ -720,9 +720,9 @@ export const schoolsData = [
     email:     "govtboyshssmuridke@punjab.gov.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/00008b/ffffff&text=Govt+Boys+HSS+Muridke",
-      "https://dummyimage.com/600x400/00008b/ffffff&text=Govt+Boys+Ground",
-      "https://dummyimage.com/600x400/00008b/ffffff&text=Govt+Boys+Lab",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8030, lng: 74.2545 },
     reviews: [
@@ -780,9 +780,9 @@ export const schoolsData = [
     email:     "govtgirlshssmuridke@punjab.gov.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/800000/ffffff&text=Govt+Girls+HSS+Muridke",
-      "https://dummyimage.com/600x400/800000/ffffff&text=Govt+Girls+Classroom",
-      "https://dummyimage.com/600x400/800000/ffffff&text=Govt+Girls+Lab",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8025, lng: 74.2542 },
     reviews: [
@@ -835,8 +835,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/003153/ffffff&text=GBHS+Narang+Mandi",
-      "https://dummyimage.com/600x400/003153/ffffff&text=GBHS+Narang+Ground",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8490, lng: 74.2320 },
     reviews: [
@@ -888,8 +888,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/8b008b/ffffff&text=GGHS+Narang+Mandi",
-      "https://dummyimage.com/600x400/8b008b/ffffff&text=GGHS+Narang+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8493, lng: 74.2325 },
     reviews: [
@@ -943,8 +943,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/1c3a5e/ffffff&text=GBHS+Kala+Shah+Kaku",
-      "https://dummyimage.com/600x400/1c3a5e/ffffff&text=KSK+School+Ground",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7540, lng: 74.2155 },
     reviews: [
@@ -996,8 +996,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/8b4513/ffffff&text=GGHS+Kala+Shah+Kaku",
-      "https://dummyimage.com/600x400/8b4513/ffffff&text=GGHS+KSK+Library",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7543, lng: 74.2158 },
     reviews: [
@@ -1050,8 +1050,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/4a4e69/ffffff&text=Workers+Welfare+School",
-      "https://dummyimage.com/600x400/4a4e69/ffffff&text=WWS+Muridke+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8055, lng: 74.2450 },
     reviews: [
@@ -1111,9 +1111,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/00509e/ffffff&text=Allied+Hassan+Campus",
-      "https://dummyimage.com/600x400/00509e/ffffff&text=Hassan+Campus+Class",
-      "https://dummyimage.com/600x400/00509e/ffffff&text=Hassan+Campus+Lab",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8008, lng: 74.2562 },
     reviews: [
@@ -1171,9 +1171,9 @@ export const schoolsData = [
     email:     "jamiaislammia.muridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/1a4a1a/ffffff&text=Jamia+Islamia+Muridke",
-      "https://dummyimage.com/600x400/1a4a1a/ffffff&text=Jamia+Mosque",
-      "https://dummyimage.com/600x400/1a4a1a/ffffff&text=Jamia+Library",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8014, lng: 74.2543 },
     reviews: [
@@ -1235,9 +1235,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/0d3349/ffffff&text=The+Educators+Muridke",
-      "https://dummyimage.com/600x400/0d3349/ffffff&text=Educators+Muridke+Lab",
-      "https://dummyimage.com/600x400/0d3349/ffffff&text=Educators+Muridke+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8012, lng: 74.2565 },
     reviews: [
@@ -1291,8 +1291,8 @@ export const schoolsData = [
     email:     "iqramodelschool@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/4b6cb7/ffffff&text=Iqra+Model+School",
-      "https://dummyimage.com/600x400/4b6cb7/ffffff&text=Iqra+Muridke+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7985, lng: 74.2482 },
     reviews: [
@@ -1348,8 +1348,8 @@ export const schoolsData = [
     email:     "muridkecommercecollege@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/1b4332/ffffff&text=Muridke+College+Commerce",
-      "https://dummyimage.com/600x400/1b4332/ffffff&text=Commerce+College+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8021, lng: 74.2550 },
     reviews: [
@@ -1412,9 +1412,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/003087/ffffff&text=Punjab+Group+Muridke",
-      "https://dummyimage.com/600x400/003087/ffffff&text=PGC+Muridke+Lab",
-      "https://dummyimage.com/600x400/003087/ffffff&text=PGC+Muridke+Auditorium",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8010, lng: 74.2570 },
     reviews: [
@@ -1466,8 +1466,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/556b2f/ffffff&text=Nangal+Sahdan+School",
-      "https://dummyimage.com/600x400/556b2f/ffffff&text=NS+Classroom",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8200, lng: 74.2700 },
     reviews: [
@@ -1521,8 +1521,8 @@ export const schoolsData = [
     email:     "allamiqbalmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/8b6914/ffffff&text=Allama+Iqbal+School",
-      "https://dummyimage.com/600x400/8b6914/ffffff&text=AI+School+Hall",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8016, lng: 74.2546 },
     reviews: [
@@ -1572,7 +1572,7 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/3b3b3b/ffffff&text=Sahuki+Mallian+School",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7900, lng: 74.2400 },
     reviews: [
@@ -1633,9 +1633,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/c0392b/ffffff&text=KIPS+School+Muridke",
-      "https://dummyimage.com/600x400/c0392b/ffffff&text=KIPS+Lab+Muridke",
-      "https://dummyimage.com/600x400/c0392b/ffffff&text=KIPS+Smart+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8009, lng: 74.2568 },
     reviews: [
@@ -1689,8 +1689,8 @@ export const schoolsData = [
     email:     "islamiahsmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/1c4966/ffffff&text=Islamia+High+School",
-      "https://dummyimage.com/600x400/1c4966/ffffff&text=IHS+Muridke+Mosque",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8023, lng: 74.2540 },
     reviews: [
@@ -1752,9 +1752,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/1a237e/ffffff&text=Jinnah+Ideal+HSS",
-      "https://dummyimage.com/600x400/1a237e/ffffff&text=Jinnah+Ideal+Lab",
-      "https://dummyimage.com/600x400/1a237e/ffffff&text=Jinnah+Ideal+Ground",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8019, lng: 74.2552 },
     reviews: [
@@ -1815,8 +1815,8 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/283593/ffffff&text=New+Jinnah+Ideal",
-      "https://dummyimage.com/600x400/283593/ffffff&text=NJI+Muridke+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8021, lng: 74.2555 },
     reviews: [
@@ -1872,8 +1872,8 @@ export const schoolsData = [
     email:     "alnoormuridkeboys@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/01579b/ffffff&text=Al-Noor+Boys+Muridke",
-      "https://dummyimage.com/600x400/01579b/ffffff&text=Al-Noor+Boys+Lab",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8016, lng: 74.2549 },
     reviews: [
@@ -1928,8 +1928,8 @@ export const schoolsData = [
     email:     "alnoormuridkegirls@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/880e4f/ffffff&text=Al-Noor+Girls+Muridke",
-      "https://dummyimage.com/600x400/880e4f/ffffff&text=Al-Noor+Girls+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8017, lng: 74.2550 },
     reviews: [
@@ -1986,8 +1986,8 @@ export const schoolsData = [
     email:     "alnoorcollegemuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/006064/ffffff&text=Al-Noor+College+Muridke",
-      "https://dummyimage.com/600x400/006064/ffffff&text=Al-Noor+College+Lab",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8018, lng: 74.2551 },
     reviews: [
@@ -2040,8 +2040,8 @@ export const schoolsData = [
     email:     "alfurqanideal@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/1b5e20/ffffff&text=Al-Furqan+Ideal+HS",
-      "https://dummyimage.com/600x400/1b5e20/ffffff&text=Al-Furqan+GT+Road",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8011, lng: 74.2563 },
     reviews: [
@@ -2095,8 +2095,8 @@ export const schoolsData = [
     email:     "aldawamodelmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/33691e/ffffff&text=Al-Dawa+Model+HS",
-      "https://dummyimage.com/600x400/33691e/ffffff&text=Al-Dawa+Markaz+Taiba",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8024, lng: 74.2545 },
     reviews: [
@@ -2151,8 +2151,8 @@ export const schoolsData = [
     email:     "alrehmangrammarboys@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/b71c1c/ffffff&text=Al-Rehman+Grammar+Boys",
-      "https://dummyimage.com/600x400/b71c1c/ffffff&text=ARG+Boys+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8014, lng: 74.2546 },
     reviews: [
@@ -2203,8 +2203,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/0d47a1/ffffff&text=GES+No1+Muridke",
-      "https://dummyimage.com/600x400/0d47a1/ffffff&text=GES+No1+Classroom",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8022, lng: 74.2543 },
     reviews: [
@@ -2256,7 +2256,7 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/37474f/ffffff&text=GBMS+Kala+Shah+Kaku",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7542, lng: 74.2153 },
     reviews: [
@@ -2307,7 +2307,7 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/6a1b9a/ffffff&text=GGMS+Kala+Shah+Kaku",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7544, lng: 74.2156 },
     reviews: [
@@ -2369,9 +2369,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/0a2342/ffffff&text=The+City+School+Muridke",
-      "https://dummyimage.com/600x400/0a2342/ffffff&text=City+School+Smart+Class",
-      "https://dummyimage.com/600x400/0a2342/ffffff&text=City+School+Lab",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8006, lng: 74.2572 },
     reviews: [
@@ -2426,8 +2426,8 @@ export const schoolsData = [
     email:     "muridke@readfoundation.org.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/2e4057/ffffff&text=Read+Foundation+Muridke",
-      "https://dummyimage.com/600x400/2e4057/ffffff&text=Read+Foundation+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8020, lng: 74.2548 },
     reviews: [
@@ -2485,8 +2485,8 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/e65100/ffffff&text=TCF+School+Muridke",
-      "https://dummyimage.com/600x400/e65100/ffffff&text=TCF+Muridke+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8052, lng: 74.2448 },
     reviews: [
@@ -2546,9 +2546,9 @@ export const schoolsData = [
     email:     "gdcmuridke.boys@punjab.gov.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/003087/ffffff&text=Govt+Degree+College+Boys",
-      "https://dummyimage.com/600x400/003087/ffffff&text=GDC+Muridke+Lab",
-      "https://dummyimage.com/600x400/003087/ffffff&text=GDC+Muridke+Ground",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8028, lng: 74.2538 },
     reviews: [
@@ -2609,9 +2609,9 @@ export const schoolsData = [
     email:     "gdcmuridke.girls@punjab.gov.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/880e4f/ffffff&text=Govt+Girls+College+Muridke",
-      "https://dummyimage.com/600x400/880e4f/ffffff&text=GGC+Muridke+Lab",
-      "https://dummyimage.com/600x400/880e4f/ffffff&text=GGC+Muridke+Library",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8026, lng: 74.2540 },
     reviews: [
@@ -2666,8 +2666,8 @@ export const schoolsData = [
     email:     "ravipublichsmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/1a237e/ffffff&text=Ravi+Public+HS+Muridke",
-      "https://dummyimage.com/600x400/1a237e/ffffff&text=Ravi+Public+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8053, lng: 74.2452 },
     reviews: [
@@ -2720,8 +2720,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/4a148c/ffffff&text=WWS+Girls+Muridke",
-      "https://dummyimage.com/600x400/4a148c/ffffff&text=WWS+Girls+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8056, lng: 74.2451 },
     reviews: [
@@ -2779,8 +2779,8 @@ export const schoolsData = [
     email:     "darululoomislamia.muridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/1b5e20/ffffff&text=Darul+Uloom+Islamia",
-      "https://dummyimage.com/600x400/1b5e20/ffffff&text=DU+Islamia+Mosque",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8013, lng: 74.2541 },
     reviews: [
@@ -2836,8 +2836,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/0d2818/ffffff&text=Jamia+Farooqia+Muridke",
-      "https://dummyimage.com/600x400/0d2818/ffffff&text=JF+Muridke+Mosque",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8015, lng: 74.2544 },
     reviews: [
@@ -2892,8 +2892,8 @@ export const schoolsData = [
     email:     "muridke@alhudapk.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/1a237e/ffffff&text=Al-Huda+Girls+Muridke",
-      "https://dummyimage.com/600x400/1a237e/ffffff&text=Al-Huda+Quran+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8017, lng: 74.2547 },
     reviews: [
@@ -2954,8 +2954,8 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/1a237e/ffffff&text=Superior+College+Muridke",
-      "https://dummyimage.com/600x400/1a237e/ffffff&text=Superior+Muridke+Lab",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8007, lng: 74.2570 },
     reviews: [
@@ -3011,8 +3011,8 @@ export const schoolsData = [
     email:     "ghazalimodelmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/4e342e/ffffff&text=Ghazali+Model+HS",
-      "https://dummyimage.com/600x400/4e342e/ffffff&text=Ghazali+School+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7982, lng: 74.2479 },
     reviews: [
@@ -3066,8 +3066,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/455a64/ffffff&text=Falah-e-Aam+Trust+HS",
-      "https://dummyimage.com/600x400/455a64/ffffff&text=FAT+School+Muridke",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8018, lng: 74.2549 },
     reviews: [
@@ -3118,7 +3118,7 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/1565c0/ffffff&text=GBPS+Chattha+Town",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8102, lng: 74.2601 },
     reviews: [
@@ -3168,7 +3168,7 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/6a1b9a/ffffff&text=GGPS+Chattha+Town",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8103, lng: 74.2602 },
     reviews: [
@@ -3223,8 +3223,8 @@ export const schoolsData = [
     email:     "visionmodelmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/006064/ffffff&text=Vision+Model+HS",
-      "https://dummyimage.com/600x400/006064/ffffff&text=Vision+Muridke+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8010, lng: 74.2566 },
     reviews: [
@@ -3279,8 +3279,8 @@ export const schoolsData = [
     email:     "brightfutureschoolmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/e91e63/ffffff&text=Bright+Future+Girls+HS",
-      "https://dummyimage.com/600x400/e91e63/ffffff&text=BF+Muridke+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7983, lng: 74.2481 },
     reviews: [
@@ -3331,7 +3331,7 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/3e2723/ffffff&text=GPS+Rajpura+Muridke",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8195, lng: 74.2695 },
     reviews: [
@@ -3380,7 +3380,7 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/263238/ffffff&text=GPS+Burj+Muridke",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8198, lng: 74.2698 },
     reviews: [
@@ -3429,7 +3429,7 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/4a148c/ffffff&text=GGPS+Mubarak+Pura+Khurd",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7895, lng: 74.2395 },
     reviews: [
@@ -3485,8 +3485,8 @@ export const schoolsData = [
     email:     "ksk@theeducators.edu.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://dummyimage.com/600x400/0d3349/ffffff&text=Educators+KSK+Campus",
-      "https://dummyimage.com/600x400/0d3349/ffffff&text=Educators+KSK+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7538, lng: 74.2152 },
     reviews: [
@@ -3545,8 +3545,8 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://dummyimage.com/600x400/e65100/ffffff&text=Pakistan+Sweet+Home+Muridke",
-      "https://dummyimage.com/600x400/e65100/ffffff&text=PSH+Muridke+Class",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8016, lng: 74.2542 },
     reviews: [
