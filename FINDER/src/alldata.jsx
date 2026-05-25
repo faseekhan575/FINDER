@@ -149,10 +149,10 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1560813628-f85f7e30400a?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.80222, lng: 74.15000 },
     reviews: [
@@ -206,8 +206,9 @@ export const schoolsData = [
     email:     "chandbaghboys@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8025, lng: 74.1510 },
     reviews: [
@@ -260,8 +261,9 @@ export const schoolsData = [
     email:     "chandbaghgirls@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1503676260728-1c5c6fb5be46?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8028, lng: 74.1512 },
     reviews: [
@@ -321,9 +323,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8020, lng: 74.2558 },
     reviews: [
@@ -380,8 +382,9 @@ export const schoolsData = [
     email:     "muridke.girls@alliedschools.edu.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1503676260728-1c5c6fb5be46?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8022, lng: 74.2560 },
     reviews: [
@@ -443,9 +446,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8018, lng: 74.2555 },
     reviews: [
@@ -502,8 +505,9 @@ export const schoolsData = [
     email:     "muridkegirls@daspak.org",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1503676260728-1c5c6fb5be46?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8019, lng: 74.2557 },
     reviews: [
@@ -556,8 +560,9 @@ export const schoolsData = [
     email:     "alrehmangrammar@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1503676260728-1c5c6fb5be46?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8015, lng: 74.2548 },
     reviews: [
@@ -609,8 +614,9 @@ export const schoolsData = [
     email:     "batoolgirlsschool@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1503676260728-1c5c6fb5be46?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8017, lng: 74.2553 },
     reviews: [
@@ -663,8 +669,9 @@ export const schoolsData = [
     email:     "chatthapublicgirls@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1503676260728-1c5c6fb5be46?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8100, lng: 74.2600 },
     reviews: [
@@ -720,9 +727,9 @@ export const schoolsData = [
     email:     "govtboyshssmuridke@punjab.gov.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8030, lng: 74.2545 },
     reviews: [
@@ -780,9 +787,9 @@ export const schoolsData = [
     email:     "govtgirlshssmuridke@punjab.gov.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1497633762265-9d899b81462d?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8025, lng: 74.2542 },
     reviews: [
@@ -835,8 +842,9 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8490, lng: 74.2320 },
     reviews: [
@@ -888,8 +896,9 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1497633762265-9d899b81462d?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8493, lng: 74.2325 },
     reviews: [
@@ -943,8 +952,9 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7540, lng: 74.2155 },
     reviews: [
@@ -996,8 +1006,9 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1497633762265-9d899b81462d?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7543, lng: 74.2158 },
     reviews: [
@@ -1050,8 +1061,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8055, lng: 74.2450 },
     reviews: [
@@ -1111,9 +1122,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8008, lng: 74.2562 },
     reviews: [
@@ -1171,9 +1182,9 @@ export const schoolsData = [
     email:     "jamiaislammia.muridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1564769662077-da1b5d8b3e9c?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1585036162373-dc5a7bbe02ca?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8014, lng: 74.2543 },
     reviews: [
@@ -1235,9 +1246,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8012, lng: 74.2565 },
     reviews: [
@@ -1291,8 +1302,9 @@ export const schoolsData = [
     email:     "iqramodelschool@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7985, lng: 74.2482 },
     reviews: [
@@ -1348,8 +1360,10 @@ export const schoolsData = [
     email:     "muridkecommercecollege@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1497633762265-9d899b81462d?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8021, lng: 74.2550 },
     reviews: [
@@ -1412,9 +1426,10 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1497633762265-9d899b81462d?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8010, lng: 74.2570 },
     reviews: [
@@ -1466,8 +1481,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8200, lng: 74.2700 },
     reviews: [
@@ -1521,8 +1536,9 @@ export const schoolsData = [
     email:     "allamiqbalmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8016, lng: 74.2546 },
     reviews: [
@@ -1572,7 +1588,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7900, lng: 74.2400 },
     reviews: [
@@ -1633,9 +1650,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8009, lng: 74.2568 },
     reviews: [
@@ -1689,8 +1706,9 @@ export const schoolsData = [
     email:     "islamiahsmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8023, lng: 74.2540 },
     reviews: [
@@ -1752,9 +1770,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8019, lng: 74.2552 },
     reviews: [
@@ -1815,8 +1833,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8021, lng: 74.2555 },
     reviews: [
@@ -1872,8 +1891,9 @@ export const schoolsData = [
     email:     "alnoormuridkeboys@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8016, lng: 74.2549 },
     reviews: [
@@ -1928,8 +1948,9 @@ export const schoolsData = [
     email:     "alnoormuridkegirls@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1503676260728-1c5c6fb5be46?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8017, lng: 74.2550 },
     reviews: [
@@ -1986,8 +2007,10 @@ export const schoolsData = [
     email:     "alnoorcollegemuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1497633762265-9d899b81462d?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8018, lng: 74.2551 },
     reviews: [
@@ -2040,8 +2063,9 @@ export const schoolsData = [
     email:     "alfurqanideal@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8011, lng: 74.2563 },
     reviews: [
@@ -2095,8 +2119,9 @@ export const schoolsData = [
     email:     "aldawamodelmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8024, lng: 74.2545 },
     reviews: [
@@ -2151,8 +2176,9 @@ export const schoolsData = [
     email:     "alrehmangrammarboys@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8014, lng: 74.2546 },
     reviews: [
@@ -2203,8 +2229,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8022, lng: 74.2543 },
     reviews: [
@@ -2256,7 +2282,9 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7542, lng: 74.2153 },
     reviews: [
@@ -2307,7 +2335,9 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1497633762265-9d899b81462d?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7544, lng: 74.2156 },
     reviews: [
@@ -2369,9 +2399,9 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8006, lng: 74.2572 },
     reviews: [
@@ -2426,8 +2456,8 @@ export const schoolsData = [
     email:     "muridke@readfoundation.org.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8020, lng: 74.2548 },
     reviews: [
@@ -2485,8 +2515,8 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8052, lng: 74.2448 },
     reviews: [
@@ -2546,9 +2576,10 @@ export const schoolsData = [
     email:     "gdcmuridke.boys@punjab.gov.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1497633762265-9d899b81462d?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8028, lng: 74.2538 },
     reviews: [
@@ -2609,9 +2640,10 @@ export const schoolsData = [
     email:     "gdcmuridke.girls@punjab.gov.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1497633762265-9d899b81462d?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8026, lng: 74.2540 },
     reviews: [
@@ -2666,8 +2698,9 @@ export const schoolsData = [
     email:     "ravipublichsmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8053, lng: 74.2452 },
     reviews: [
@@ -2720,8 +2753,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8056, lng: 74.2451 },
     reviews: [
@@ -2779,8 +2812,9 @@ export const schoolsData = [
     email:     "darululoomislamia.muridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1564769662077-da1b5d8b3e9c?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1585036162373-dc5a7bbe02ca?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8013, lng: 74.2541 },
     reviews: [
@@ -2836,8 +2870,9 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1564769662077-da1b5d8b3e9c?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1585036162373-dc5a7bbe02ca?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8015, lng: 74.2544 },
     reviews: [
@@ -2892,8 +2927,9 @@ export const schoolsData = [
     email:     "muridke@alhudapk.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1564769662077-da1b5d8b3e9c?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1585036162373-dc5a7bbe02ca?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8017, lng: 74.2547 },
     reviews: [
@@ -2954,8 +2990,10 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1497633762265-9d899b81462d?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8007, lng: 74.2570 },
     reviews: [
@@ -3011,8 +3049,9 @@ export const schoolsData = [
     email:     "ghazalimodelmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7982, lng: 74.2479 },
     reviews: [
@@ -3066,8 +3105,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8018, lng: 74.2549 },
     reviews: [
@@ -3118,7 +3157,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8102, lng: 74.2601 },
     reviews: [
@@ -3168,7 +3208,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8103, lng: 74.2602 },
     reviews: [
@@ -3223,8 +3264,9 @@ export const schoolsData = [
     email:     "visionmodelmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8010, lng: 74.2566 },
     reviews: [
@@ -3279,8 +3321,9 @@ export const schoolsData = [
     email:     "brightfutureschoolmuridke@gmail.com",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1569259990467-d3d7acef7f16?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1516979187895-4d6e6cff8439?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1503676260728-1c5c6fb5be46?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7983, lng: 74.2481 },
     reviews: [
@@ -3331,7 +3374,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8195, lng: 74.2695 },
     reviews: [
@@ -3380,7 +3424,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8198, lng: 74.2698 },
     reviews: [
@@ -3429,7 +3474,8 @@ export const schoolsData = [
     email:     "",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7895, lng: 74.2395 },
     reviews: [
@@ -3485,8 +3531,9 @@ export const schoolsData = [
     email:     "ksk@theeducators.edu.pk",
     socialLinks: { facebook: "", twitter: "", instagram: "" },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.7538, lng: 74.2152 },
     reviews: [
@@ -3545,8 +3592,8 @@ export const schoolsData = [
       instagram: "",
     },
     images: [
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
-      "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=800&fit=crop&q=90",
+      "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=800&fit=crop&q=90",
     ],
     locationCoordinates: { lat: 31.8016, lng: 74.2542 },
     reviews: [
