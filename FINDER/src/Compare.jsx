@@ -7,7 +7,7 @@ import {
   FaMoneyBillWave, FaUsers, FaUserTie, FaTrophy, FaBuilding,
   FaMapMarkerAlt, FaPhone, FaCalendarAlt, FaGraduationCap, FaSearch
 } from "react-icons/fa";
-import { schoolsData } from "./allData";
+import { schoolsData } from "./alldata";
 import Navbar from "./Navbar";
 
 function Stars({ rating, big = false }) {

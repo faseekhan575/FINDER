@@ -16,7 +16,7 @@ import {
   FaStar, FaHeart, FaBookmark, FaChartBar, FaTimes, FaArrowLeft,
   FaSortAmountDown, FaChevronDown, FaLayerGroup,
 } from "react-icons/fa";
-import { schoolsData, areasData } from "./allData";
+import { schoolsData, areasData } from "./alldata";
 import Navbar from "./Navbar";
 
 /* ─── Loading messages ─── */

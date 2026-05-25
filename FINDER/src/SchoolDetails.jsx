@@ -16,7 +16,7 @@ import {
   FaClock, FaBuilding, FaGraduationCap, FaTrophy, FaSchool, FaShare,
   FaChevronLeft, FaChevronRight, FaPlus,
 } from "react-icons/fa";
-import { getSchoolBySlug, schoolsData } from "./allData";
+import { getSchoolBySlug, schoolsData } from "./alldata";
 import Navbar from "./Navbar";
 
 /* ─── Colour helpers (match Finder.jsx) ─── */
