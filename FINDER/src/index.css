@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+:root {
+  --gold: #d4af37;
+  --gold-light: #f0d060;
+  --navy: #070d1a;
+  --navy-mid: #0d1f3c;
+  --navy-light: #162845;
+  --teal: #00c9a7;
+  --teal-dark: #009e84;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background-color: var(--navy);
+  color: #e2e8f0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Syne', sans-serif;
+}
+
+/* Custom Colors */
+
+.gold-text {
+  color: var(--gold);
+}
+
+.bg-navy {
+  background-color: var(--navy);
+}
+
+.bg-navy-mid {
+  background-color: var(--navy-mid);
+}
+
+.bg-navy-light {
+  background-color: var(--navy-light);
+}
+
+.text-gold {
+  color: var(--gold);
+}
+
+.text-teal {
+  color: var(--teal);
+}
+
+.bg-teal {
+  background-color: var(--teal);
+}
+
+.bg-gold {
+  background-color: var(--gold);
+}
+
+.border-teal {
+  border-color: var(--teal);
+}
+
+.border-gold {
+  border-color: var(--gold);
+}
